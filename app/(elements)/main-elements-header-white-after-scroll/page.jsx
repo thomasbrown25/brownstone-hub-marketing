@@ -9,9 +9,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Element Page Header White After Scroll || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Header White After Scroll || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageHeaderWhiteAfterScroll() {
   return (

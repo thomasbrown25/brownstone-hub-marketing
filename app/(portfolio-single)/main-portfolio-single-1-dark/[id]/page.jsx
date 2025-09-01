@@ -12,9 +12,9 @@ import RelatedProject10 from "@/components/portfolio/relatedProjects/RelatedProj
 
 export const metadata = {
   title:
-    "Main Portfolio Single Page 1 Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Portfolio Single Page 1 Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function MainPortfolioSinglePage1Dark(props) {
   const params = await props.params;

@@ -53,7 +53,7 @@ export default function Hero2({ dark }) {
             {/* End Background Shape */}
             <div className="w-100 text-center text-lg-start pt-80">
               <h2 className="section-caption-slick mb-30 mb-sm-20 wow fadeInUp">
-                Resonance Studio
+                Brownstone Hub Studio
               </h2>
               <h1 className="hs-title-10 mb-40 mb-sm-20 wow fadeInUp">
                 Create a beautiful web presence

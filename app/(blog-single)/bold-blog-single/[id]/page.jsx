@@ -16,9 +16,9 @@ import React from "react";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Bold Blog Single || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Bold Blog Single || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 
 export default async function BoldBlogSinglePage(props) {

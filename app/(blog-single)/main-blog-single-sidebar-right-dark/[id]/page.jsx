@@ -13,9 +13,9 @@ import { menuItemsDark } from "@/data/menu";
 import { allBlogs } from "@/data/blogs";
 export const metadata = {
   title:
-    "Main Blog Single Page Sidebar Right Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Blog Single Page Sidebar Right Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function MainBlogSinglePageSidebarRightDark(props) {
   const params = await props.params;

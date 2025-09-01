@@ -11,9 +11,9 @@ import Accordion2 from "@/components/accordions/Accordion2";
 
 export const metadata = {
   title:
-    "Element Page Accordion Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Accordion Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageAccordionDark() {
   return (

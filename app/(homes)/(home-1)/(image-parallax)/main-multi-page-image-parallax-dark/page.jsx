@@ -9,9 +9,9 @@ import Footer1 from "@/components/footers/Footer1";
 
 export const metadata = {
   title:
-    "Home 1 Image Parallax MultiPage Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 1 Image Parallax MultiPage Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home1ImageParallaxMultiPageDark() {
   return (

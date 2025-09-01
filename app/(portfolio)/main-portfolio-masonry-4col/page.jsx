@@ -9,9 +9,9 @@ import PortfolioMassonry4 from "@/components/portfolio/PortfolioMassonry4";
 
 export const metadata = {
   title:
-    "Main Portfolio Page Masonry 4 Col || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Portfolio Page Masonry 4 Col || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainPortfolioPageMasonry4Col() {
   return (

@@ -9,9 +9,9 @@ import Slider5 from "@/components/elements/Slider5";
 
 export const metadata = {
   title:
-    "Element Page Slider Lazyload || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Slider Lazyload || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageSliderLazyload() {
   return (

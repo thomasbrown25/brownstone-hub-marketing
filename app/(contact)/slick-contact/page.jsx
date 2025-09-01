@@ -10,9 +10,9 @@ import Image from "next/image";
 
 export const metadata = {
   title:
-    "Slick Contacts || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Slick Contacts || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 const onePage = false;
 const dark = false;

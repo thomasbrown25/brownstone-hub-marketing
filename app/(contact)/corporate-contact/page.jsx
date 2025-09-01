@@ -13,9 +13,9 @@ import Faq from "@/components/common/Faq";
 
 export const metadata = {
   title:
-    "Corporate Contact || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Corporate Contact || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function CorporateContactPage() {
   return (

@@ -12,9 +12,9 @@ import Features from "@/components/homes/home-1/Features";
 
 export const metadata = {
   title:
-    "Element Page Slider || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Slider || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageSlider() {
   return (

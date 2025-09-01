@@ -11,9 +11,9 @@ import React from "react";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Bold Portfolio Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Bold Portfolio Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 const onePage = false;
 const dark = true;

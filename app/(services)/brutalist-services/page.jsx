@@ -11,9 +11,9 @@ import Image from "next/image";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Brutalist Services || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brutalist Services || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function BrutalistServicesPage() {
   return (

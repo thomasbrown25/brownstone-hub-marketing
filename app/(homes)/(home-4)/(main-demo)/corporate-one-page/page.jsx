@@ -7,9 +7,9 @@ import { corporateOnepage } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Home 4 Main Demo Onepage || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 4 Main Demo Onepage || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home4MainDemoOnepage() {
   return (

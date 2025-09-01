@@ -13,9 +13,9 @@ import Features from "@/components/homes/home-1/Features";
 
 export const metadata = {
   title:
-    "Element Page Slider Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Slider Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageSliderDark() {
   return (

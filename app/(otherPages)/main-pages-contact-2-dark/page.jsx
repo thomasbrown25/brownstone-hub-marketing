@@ -12,9 +12,9 @@ import Map from "@/components/common/Map";
 import { menuItemsDark } from "@/data/menu";
 export const metadata = {
   title:
-    "Main About 1 Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main About 1 Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainAboutPage1Dark() {
   return (

@@ -8,9 +8,9 @@ import Image from "next/image";
 import { menuItems } from "@/data/menu";
 export const metadata = {
   title:
-    "Element Page Typography || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Typography || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageTypography() {
   return (

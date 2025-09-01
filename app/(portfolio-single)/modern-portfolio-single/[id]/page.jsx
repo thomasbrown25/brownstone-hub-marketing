@@ -9,9 +9,9 @@ import Image from "next/image";
 import { allPortfolios } from "@/data/portfolio";
 export const metadata = {
   title:
-    "Modern Portfolio Single|| Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Modern Portfolio Single|| Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function ModernPortfolioSinglePage(props) {
   const params = await props.params;

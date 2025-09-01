@@ -12,16 +12,16 @@ export default function About() {
         >
           <div className="spot-box clearfix mb-30">
             <div className="spot-box-icon float-end ms-3" />
-            <div className="spot-box-text text-end">
+             <div className="spot-box-text">
               <span className="text-gray">
-                We've helped more <br />
-                than
+                Better software,   {' '} 
               </span>
-              90 brands.
+              stronger businesses.
             </div>
+            
           </div>
           <Image
-            src="/assets/images/demo-elegant/section-image-1.jpg"
+            src="/assets/images/demo-elegant/section-image-1.png"
             width={400}
             height={489}
             className="w-100 round"
@@ -35,7 +35,7 @@ export default function About() {
           data-rellax-percentage="0.5"
         >
           <Image
-            src="/assets/images/demo-elegant/section-image-2.jpg"
+            src="/assets/images/demo-elegant/section-image-2.png"
             width={400}
             height={489}
             className="w-100 round"
@@ -43,12 +43,12 @@ export default function About() {
           />
           <div className="spot-box clearfix mt-30">
             <div className="spot-box-icon float-start me-3" />
-            <div className="spot-box-text">
+           <div className="spot-box-text text-end">
               <span className="text-gray">
-                We design interfaces <br />
-                for over
-              </span>
-              10 years.
+                Big-tech experience,  <br />
+                startup
+              </span> {' '}
+              speed
             </div>
           </div>
         </div>

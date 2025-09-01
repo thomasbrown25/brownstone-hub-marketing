@@ -46,7 +46,7 @@ export default function Hero1() {
             </span>
           </h1>
           <p className="hs-paragraph-1 wow clipRightIn" data-wow-delay="1.1s">
-            Resonance is a full-service creative studio creating beautiful
+            Brownstone Hub is a full-service creative studio creating beautiful
             digital experiences and products.
           </p>
         </div>

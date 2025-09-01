@@ -12,9 +12,9 @@ import { features2 } from "@/data/features";
 
 export const metadata = {
   title:
-    "Corporate Portfolio Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Corporate Portfolio Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function CorporatePortfolioPageDark() {
   return (

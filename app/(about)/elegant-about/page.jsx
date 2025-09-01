@@ -7,16 +7,16 @@ const onePage = false;
 const dark = false;
 import { elegantMultipage } from "@/data/menu";
 import About from "@/components/homes/home-5/About";
-import Team from "@/components/homes/home-5/Team";
+import Team from "@/components/homes/home-5/Products";
 import MarqueeDark from "@/components/homes/home-5/MarqueeDark";
 import Marquee from "@/components/homes/home-5/Marquee";
 import { progressData } from "@/data/skills";
 
 export const metadata = {
   title:
-    "Elegant About || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Elegant About || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElegantAboutPage() {
   return (

@@ -9,9 +9,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Element Page Forms || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Forms || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageForms() {
   return (

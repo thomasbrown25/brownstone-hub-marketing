@@ -15,9 +15,9 @@ import Image from "next/image";
 import { menuItemsDark } from "@/data/menu";
 export const metadata = {
   title:
-    "Main Services 3 Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Services 3 Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainServicesPage3Dark() {
   return (

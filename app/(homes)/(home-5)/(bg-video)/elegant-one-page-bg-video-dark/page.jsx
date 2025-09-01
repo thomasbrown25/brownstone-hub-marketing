@@ -8,9 +8,9 @@ import { elegantOnepage } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Home 5 BG Video Onepage Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 5 BG Video Onepage Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home5BGVideoOnepageDark() {
   return (

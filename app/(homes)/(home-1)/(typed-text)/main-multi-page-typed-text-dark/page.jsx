@@ -7,9 +7,9 @@ import { menuItemsDark } from "@/data/menu";
 import Footer1 from "@/components/footers/Footer1";
 export const metadata = {
   title:
-    "Home 1 Typed Text MultiPage Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 1 Typed Text MultiPage Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home1TypedTextMultiPageDark() {
   return (

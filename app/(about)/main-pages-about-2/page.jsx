@@ -20,9 +20,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Main About 2 || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main About 2 || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainAboutPage2() {
   return (
@@ -52,7 +52,7 @@ export default function MainAboutPage2() {
                             className="wow charsAnimIn"
                             data-splitting="chars"
                           >
-                            <AnimatedText text="Hey! It's Resonance Creative Studio Here." />
+                            <AnimatedText text="Hey! It's Brownstone Hub Creative Studio Here." />
                           </span>
                         </h1>
                         <div className="row">
@@ -149,7 +149,7 @@ export default function MainAboutPage2() {
                       <h3 className="h5">Our Mission</h3>
 
                       <p className="text-gray">
-                        Resonance is an innovative and dynamic full-service
+                        Brownstone Hub is an innovative and dynamic full-service
                         creative studio that is passionate about crafting
                         exceptional digital experiences and products. We
                         specialize in branding, design, and engineering, and we

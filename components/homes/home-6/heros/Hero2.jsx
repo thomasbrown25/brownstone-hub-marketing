@@ -14,7 +14,7 @@ export default function Hero2() {
             {/* Home Section Text */}
             <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
               <h2 className="section-caption-fancy large mb-30 mb-xs-20 wow fadeInUp">
-                Resonance Web Studio
+                Brownstone Hub Web Studio
               </h2>
               <h1
                 className="hs-title-9 mb-30 wow fadeRotateIn"

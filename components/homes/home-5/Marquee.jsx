@@ -5,30 +5,30 @@ export default function Marquee() {
     <>
       <div className="marquee marquee-style-1 mb-30">
         <div className="marquee-track marquee-animation">
-          <div>Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
-          <div aria-hidden="true">Established in 2010</div>
+          <div>Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
+          <div aria-hidden="true">Established in 2025</div>
         </div>
       </div>
       {/* End Marquee Text Line */}

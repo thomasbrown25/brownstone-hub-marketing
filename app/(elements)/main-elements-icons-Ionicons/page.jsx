@@ -9,9 +9,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Element Page Icons Lonicons || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Icons Lonicons || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageIconsLonicons() {
   return (

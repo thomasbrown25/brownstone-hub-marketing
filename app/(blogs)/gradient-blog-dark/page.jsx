@@ -15,9 +15,9 @@ const onePage = false;
 const dark = true;
 export const metadata = {
   title:
-    "Gradient Blogs Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Gradient Blogs Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function GradientBlogPageDark() {
   return (

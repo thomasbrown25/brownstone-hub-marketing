@@ -11,9 +11,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Main Blog Classic Page Sidebar Right || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Blog Classic Page Sidebar Right || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainBlogClassicPageSidebarRight() {
   return (

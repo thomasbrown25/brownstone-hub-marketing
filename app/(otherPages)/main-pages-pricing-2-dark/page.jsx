@@ -16,9 +16,9 @@ import Pricing2 from "@/components/homes/home-1/Pricing2";
 
 export const metadata = {
   title:
-    "Main About 1 Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main About 1 Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainAboutPage1Dark() {
   return (

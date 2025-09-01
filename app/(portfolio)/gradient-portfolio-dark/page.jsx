@@ -9,9 +9,9 @@ import Link from "next/link";
 const dark = true;
 export const metadata = {
   title:
-    "Gradient Portfolio Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Gradient Portfolio Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function GradientPortfolioPageDark() {
   return (

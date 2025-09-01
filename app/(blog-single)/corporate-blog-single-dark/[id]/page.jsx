@@ -13,9 +13,9 @@ import Comments from "@/components/blog/Comments";
 import { allBlogs } from "@/data/blogs";
 export const metadata = {
   title:
-    "Corporate Blog Single Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Corporate Blog Single Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function CorporateBlogSinglePageDark(props) {
   const params = await props.params;

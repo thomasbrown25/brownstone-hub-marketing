@@ -10,9 +10,9 @@ import { mainDemoOnepage } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Home 1 Image Parallax Onepage || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 1 Image Parallax Onepage || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home1ImageParallaxOnepage() {
   return (

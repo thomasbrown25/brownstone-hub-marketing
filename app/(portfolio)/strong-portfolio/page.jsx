@@ -11,9 +11,9 @@ const dark = false;
 const onePage = false;
 export const metadata = {
   title:
-    "Strong Portfolio || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Strong Portfolio || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function StrongPortfolioPage() {
   return (

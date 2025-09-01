@@ -11,9 +11,9 @@ const onePage = false;
 const dark = false;
 export const metadata = {
   title:
-    "Modern About || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Modern About || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ModernAboutPage() {
   return (

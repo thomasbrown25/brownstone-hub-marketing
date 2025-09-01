@@ -18,9 +18,9 @@ const onePage = false;
 const dark = false;
 export const metadata = {
   title:
-    "Gradient Blogs Single || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Gradient Blogs Single || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function GradientBlogSinglePage(props) {
   const params = await props.params;

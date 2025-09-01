@@ -7,9 +7,9 @@ import AnimatedText from "@/components/common/AnimatedText";
 
 export const metadata = {
   title:
-    "Element Page Video Sound || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Video Sound || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageVideoSound() {
   return (

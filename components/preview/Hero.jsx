@@ -13,11 +13,11 @@ export default function Hero() {
               className="hs-title-11 mb-20 wow fadeInUp"
               data-wow-duration="1.2s"
             >
-              Resonance — One/Multi Page Multipurpose Nextjs Template
+              test Brownstone Hub — One/Multi Page Multipurpose Nextjs Template
             </h2>
             <h1 className="hs-title-12 mb-40 mb-sm-30">
               <span className="wow charsAnimIn" data-splitting="chars">
-                <AnimatedText text="Create your beautiful website with Resonance." />
+                <AnimatedText text={"Turning Visions into Software"} />
               </span>
             </h1>
             <div

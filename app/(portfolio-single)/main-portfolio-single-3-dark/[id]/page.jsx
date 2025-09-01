@@ -13,9 +13,9 @@ import Slider1 from "@/components/portfolio/sliders/Slider1";
 import { allPortfolios } from "@/data/portfolio";
 export const metadata = {
   title:
-    "Main Portfolio Single Page 3 Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Portfolio Single Page 3 Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function MainPortfolioSinglePage3Dark(props) {
   const params = await props.params;

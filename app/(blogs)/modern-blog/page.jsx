@@ -13,9 +13,9 @@ import ParallaxContainer from "@/components/common/ParallaxContainer";
 
 export const metadata = {
   title:
-    "Modern Blogs || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Modern Blogs || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ModernBlogPage() {
   return (

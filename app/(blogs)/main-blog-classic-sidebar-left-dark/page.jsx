@@ -12,9 +12,9 @@ import { menuItemsDark } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Main Blog Classic Page Sidebar Left Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Blog Classic Page Sidebar Left Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainBlogClassicPageSidebarLeftDark() {
   return (

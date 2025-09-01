@@ -9,14 +9,14 @@ export default function Hero2() {
           <div className="col-lg-10 offset-lg-1">
             <h2 className="lead uppercase mb-40 mb-sm-30 wow fadeInUp">
               <span className="mark-decoration-1">
-                Hello <span className="font-alt">&amp;</span> Welcome
+                Hello test <span className="font-alt">&amp;</span> Welcome
               </span>
             </h2>
             <h1 className="hs-title-13 mb-50 mb-sm-40">
               <span className="wow charsAnimIn" data-splitting="chars">
                 Elevate
                 <span className="font-alt"> the digital</span> experience with
-                Resonance <span className="font-alt">studio</span>.
+                Brownstone Hub <span className="font-alt">studio</span>.
               </span>
             </h1>
             <div className="local-scroll wow fadeInUp" data-wow-delay="0.65s">

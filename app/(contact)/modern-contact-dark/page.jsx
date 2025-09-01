@@ -11,9 +11,9 @@ const dark = true;
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Modern Contact Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Modern Contact Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ModernContactPageDark() {
   return (

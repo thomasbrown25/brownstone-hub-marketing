@@ -10,9 +10,9 @@ import Widget1 from "@/components/blog/widgets/Widget1";
 import { allBlogs } from "@/data/blogs";
 export const metadata = {
   title:
-    "Elegant Blog Single Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Elegant Blog Single Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function ElegantBlogSinglePageDark(props) {
   const params = await props.params;

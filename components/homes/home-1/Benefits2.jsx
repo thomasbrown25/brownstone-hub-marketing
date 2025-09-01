@@ -35,7 +35,7 @@ export default function Benefits2() {
         <div className="col-lg-5 col-xl-5 offset-xl-1 d-flex align-items-center mb-md-60 mb-sm-40">
           <div className="w-100">
             <h2 className="section-caption mb-30 mb-xs-10">Benefits</h2>
-            <h3 className="section-title mb-30">Why choose Resonance?</h3>
+            <h3 className="section-title mb-30">Why choose Brownstone Hub?</h3>
             <p className="section-descr mb-50 mb-sm-30">
               A static website stores a unique file for every page of a static
               website. Each time that page is requested, the same content is

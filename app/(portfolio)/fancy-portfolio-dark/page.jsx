@@ -10,9 +10,9 @@ const onePage = false;
 const dark = true;
 export const metadata = {
   title:
-    "Fancy Portfolio Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Fancy Portfolio Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function FancyPortfolioPageDark() {
   return (

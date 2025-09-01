@@ -9,9 +9,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Element Page Cookie Banner || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Cookie Banner || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageCookieBanner() {
   return (

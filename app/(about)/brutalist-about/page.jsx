@@ -12,9 +12,9 @@ import Image from "next/image";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Brutalist About || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brutalist About || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function BrutalistAboutPage() {
   return (
@@ -65,7 +65,7 @@ export default function BrutalistAboutPage() {
                       className="section-descr-large mb-60 mb-sm-40 wow fadeInUp"
                       data-wow-delay="0.1s"
                     >
-                      Resonance is a full-service creative studio creating
+                      Brownstone Hub is a full-service creative studio creating
                       beautiful digital experiences and products. We are an
                       award winning studio specializing in branding, design and
                       engineering. Our mission is to make work meaningful.

@@ -11,9 +11,9 @@ import ParallaxContainer from "@/components/common/ParallaxContainer";
 
 export const metadata = {
   title:
-    "Home 10 Blog Single Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 10 Blog Single Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function StrongBlogSinglePageDark(props) {
   const params = await props.params;

@@ -9,9 +9,9 @@ import Hero5 from "@/components/homes/home-1/heros/Hero5";
 import { menuItemsDark } from "@/data/menu";
 export const metadata = {
   title:
-    "Home 1 Slider Background MultiPage Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 1 Slider Background MultiPage Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home1SliderBackgroundMultiPageDark() {
   return (

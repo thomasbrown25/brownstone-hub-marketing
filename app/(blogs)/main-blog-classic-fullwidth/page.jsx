@@ -15,9 +15,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Main Blog Classic Page FullWidth || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Blog Classic Page FullWidth || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainBlogClassicPageFullWidth() {
   return (

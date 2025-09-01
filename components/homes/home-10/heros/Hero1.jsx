@@ -8,7 +8,7 @@ export default function Hero1() {
       <div className="home-content text-center">
         <h1 className="hs-title-7 mb-40">
           <span className="wow charsAnimIn-1" data-splitting="chars">
-            <AnimatedText text="Resonance" />{" "}
+            <AnimatedText text="Brownstone Hub" />{" "}
             <span className="font-alt">
               <AnimatedText text="Creative" />{" "}
             </span>{" "}
@@ -24,7 +24,7 @@ export default function Hero1() {
             <div className="row wow fadeInUpShort" data-wow-delay="1.35s">
               <div className="col-sm-6 col-md-7 text-center text-sm-start mb-xs-30">
                 <p className="mb-0">
-                  Resonance is an award-winning studio specializing in branding,
+                  Brownstone Hub is an award-winning studio specializing in branding,
                   design and engineering.
                 </p>
               </div>

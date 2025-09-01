@@ -16,9 +16,9 @@ import Form2 from "@/components/newsletterForms/Form2";
 
 export const metadata = {
   title:
-    "Corporate Blog || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Corporate Blog || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function CorporateBlogPage() {
   return (

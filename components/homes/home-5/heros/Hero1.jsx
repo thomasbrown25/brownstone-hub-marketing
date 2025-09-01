@@ -6,14 +6,14 @@ export default function Hero1() {
     <div className="container min-height-100vh d-flex align-items-center pt-100 pb-100 pt-sm-120 pb-sm-120">
       {/* Home Section Content */}
       <div className="home-content text-center">
-        <h2 className="section-title-tiny mb-50 mb-sm-30 wow fadeInDownShort">
-          Hello &amp; Welcome
-        </h2>
         <h1 className="hs-title-3 mb-80 mb-sm-50 mb-xs-30">
           <span className="wow charsAnimInLong" data-splitting="chars">
-            <AnimatedText text="Resonance Creative Studio" />
+            <AnimatedText text="Turning Visions into Software" />
           </span>
         </h1>
+        <h2 className="section-title-tiny mb-50 mb-sm-30 wow fadeInDownShort">
+          Custom software for real business needs --dashboards, portals, and API integrations.
+        </h2>
         <div className="local-scroll wow fadeInUpShort" data-wow-delay="0.57s">
           <a
             href="#about"
@@ -21,7 +21,7 @@ export default function Hero1() {
             data-link-animate="y"
           >
             <span className="link-strong link-strong-unhovered">
-              Discover Now{" "}
+              Get a Proposal{" "}
               <i
                 className="mi-arrow-right size-18 align-middle"
                 aria-hidden="true"
@@ -31,7 +31,7 @@ export default function Hero1() {
               className="link-strong link-strong-hovered"
               aria-hidden="true"
             >
-              Discover Now{" "}
+               Get a Proposal{" "}
               <i
                 className="mi-arrow-right size-18 align-middle"
                 aria-hidden="true"

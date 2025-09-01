@@ -10,9 +10,9 @@ import { allPortfolios } from "@/data/portfolio";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Brutalist Portfolio Single || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brutalist Portfolio Single || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function BrutalistPortfolioSinglePage(props) {
   const params = await props.params;

@@ -12,9 +12,9 @@ import Link from "next/link";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Brutalist Portfolio Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brutalist Portfolio Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function BrutalistPortfolioPageDark() {
   return (

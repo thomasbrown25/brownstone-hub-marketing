@@ -31,7 +31,7 @@ export default function Footer4() {
         <div className="row">
           <div className="col-lg-6 mb-md-60">
             <h2 className="section-title mb-60 mb-sm-40">
-              Ready to get started with Resonance Template?
+              Ready to get started with Brownstone Hub Template?
             </h2>
             <div className="local-scroll">
               <a

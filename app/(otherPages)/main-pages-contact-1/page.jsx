@@ -16,9 +16,9 @@ import Contact2 from "@/components/homes/home-1/Contact2";
 const dark = false;
 export const metadata = {
   title:
-    "Main About 1 || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main About 1 || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainAboutPage1() {
   return (

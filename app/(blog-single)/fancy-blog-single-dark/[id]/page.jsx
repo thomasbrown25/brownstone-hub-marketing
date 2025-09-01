@@ -10,9 +10,9 @@ import Image from "next/image";
 import { allBlogs } from "@/data/blogs";
 export const metadata = {
   title:
-    "Fancy Blog Single Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Fancy Blog Single Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function FancyBlogSinglePageDark(props) {
   const params = await props.params;

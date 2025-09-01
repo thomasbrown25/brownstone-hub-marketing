@@ -12,9 +12,9 @@ import { features5 } from "@/data/features";
 
 export const metadata = {
   title:
-    "Elegant Services || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Elegant Services || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElegantServicesPage() {
   return (
@@ -228,7 +228,7 @@ export default function ElegantServicesPage() {
                         Primary Benefits
                       </h2>
                       <h3 className="section-title-small mb-40">
-                        Why choose Resonance?
+                        Why choose Brownstone Hub?
                       </h3>
                       <div className="section-line" />
                     </div>

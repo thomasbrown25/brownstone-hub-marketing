@@ -7,9 +7,9 @@ import Image from "next/image";
 
 export const metadata = {
   title:
-    "Home 6 Main Demo Onepage || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 6 Main Demo Onepage || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home6MainDemoOnepage() {
   return (

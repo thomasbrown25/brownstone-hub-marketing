@@ -7,9 +7,9 @@ import Image from "next/image";
 import { allPortfolios } from "@/data/portfolio";
 export const metadata = {
   title:
-    "Slick Portfolio Single|| Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Slick Portfolio Single|| Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 const onePage = false;
 const dark = false;

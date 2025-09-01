@@ -12,9 +12,9 @@ const onePage = false;
 const dark = false;
 export const metadata = {
   title:
-    "Fancy About || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Fancy About || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function FancyAboutPage() {
   return (

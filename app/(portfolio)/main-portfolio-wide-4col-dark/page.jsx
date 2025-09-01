@@ -9,9 +9,9 @@ import Portfolio from "@/components/portfolio/Portfolio2";
 
 export const metadata = {
   title:
-    "Main Portfolio PageWide 4 Col Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Portfolio PageWide 4 Col Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainPortfolioPageWide4ColDark() {
   return (

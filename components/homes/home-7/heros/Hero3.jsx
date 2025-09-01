@@ -19,7 +19,7 @@ export default function Hero3() {
                   className="section-descr mb-50 mb-sm-40 wow fadeInUp"
                   data-wow-delay="0.2s"
                 >
-                  Resonance is a full-service studio creating beautiful digital
+                  Brownstone Hub is a full-service studio creating beautiful digital
                   experiences. We are an awards-winning team specializing in
                   design and engineering.
                 </p>

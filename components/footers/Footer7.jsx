@@ -19,7 +19,7 @@ export default function Footer7() {
         <div className="row pb-120 pb-sm-80 pb-xs-50">
           <div className="col-md-4 mb-sm-50">
             <h2 className="section-title-small mt-n10 mb-30">
-              Get started with Resonance Template
+              Get started with Brownstone Hub Template
             </h2>
             <p className="text-gray mb-40">
               Integer auctor aliquet martor, sed lorem malesuada eros blandit

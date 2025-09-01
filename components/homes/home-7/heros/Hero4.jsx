@@ -9,9 +9,9 @@ export default function Hero4() {
         {/* Home Section Content */}
         <div className="home-content">
           <h1 className="hs-line-14 text-outline-cont mb-40 mb-sm-20 wow fadeRotateIn">
-            <span className="text-outline-2">Resonance Studio</span>
-            <span className="text-outline-1">Resonance Studio</span>
-            <span className="text-outline">Resonance Studio</span>
+            <span className="text-outline-2">Brownstone Hub Studio</span>
+            <span className="text-outline-1">Brownstone Hub Studio</span>
+            <span className="text-outline">Brownstone Hub Studio</span>
           </h1>
           <div className="row">
             <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
@@ -19,7 +19,7 @@ export default function Hero4() {
                 className="section-descr mb-50 mb-sm-40 wow fadeInUp"
                 data-wow-delay="0.2s"
               >
-                Resonance is a full-service studio creating beautiful digital
+                Brownstone Hub is a full-service studio creating beautiful digital
                 experiences. We are an awards-winning team specializing in
                 design and engineering.
               </p>

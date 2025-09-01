@@ -1,86 +1,44 @@
-import Hero from "@/components/preview/Hero";
-import ParallaxContainer from "@/components/common/ParallaxContainer";
-import Showcase from "@/components/preview/Showcase";
-import Multipage from "@/components/preview/Multipage";
-import Onepage from "@/components/preview/Onepage";
-import Intro from "@/components/preview/Intro";
-import Testomonials from "@/components/preview/Testomonials";
-import FooterPreview from "@/components/footers/FooterPreview";
-import HeaderPreview from "@/components/headers/HeaderPreview";
+import Footer5 from "@/components/footers/Footer5";
 
+import Header5 from "@/components/headers/Header5";
+import Home5 from "@/components/homes/home-5";
+import Hero1 from "@/components/homes/home-5/heros/Hero1";
+import { elegantMultipageDark } from "@/data/menu";
+import dynamic from "next/dynamic";
+import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Preview Page || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 5 Main Demo MultiPage Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
-
-export default function Home() {
+export default function Home5MainDemoMultiPageDark() {
   return (
     <>
-      <div className="theme-main">
-        <div className="page" id="top">
-          {/* Navigation Panel */}
-          <nav className="main-nav transparent stick-fixed wow-menubar">
-            <HeaderPreview />
-          </nav>
-          {/* End Navigation Panel */}
-          <main id="main">
-            {/* Home Section */}
-            <ParallaxContainer
-              className="home-section bg-gray-light-1 bg-light-alpha-90 parallax-5 parallax-mousemove-scene scrollSpysection"
-              style={{
-                backgroundImage:
-                  "url(/assets/images/full-width-images/section-bg-1.jpg)",
-              }}
-              id="home"
-            >
-              <Hero />
-            </ParallaxContainer>
-            {/* End Home Section */}
-            {/* Showcases Section */}
-            <section className="full-wrapper mt-n90">
-              <Showcase />
-            </section>
-            {/* End Showcases Section */}
-            {/* Multi Page Demos Section */}
-            <section className="page-section overflow-hidden" id="multi-page">
-              <Multipage />
-            </section>
-            {/* End Multi Page Demos Section */}
-            {/* Divider */}
-            <hr className="mt-0 mb-0" />
-            {/* End Divider */}
-            {/* One Page Demos Section */}
-            <section className="page-section overflow-hidden" id="one-page">
-              <Onepage />
-            </section>
-            {/* End One Page Demos Section */}
-            {/* Divider */}
-            <hr className="mt-0 mb-0" />
-            {/* End Divider */}
-            {/* Intro Sections Demos Section */}
-            <section
-              className="page-section overflow-hidden"
-              id="intro-sections"
-            >
-              <Intro />
-            </section>
-            {/* End Intro Sections Demos Section */}
-            {/* Divider */}
-            <hr className="mt-0 mb-0" />
-            {/* End Divider */}
-            {/* Testimonials Section */}
-            <section className="page-section">
-              <Testomonials />
-            </section>
-            {/* End Testimonials Section */}
-          </main>
-          {/* Footer */}
-          <footer className="page-section footer bg-gray-light-1 pb-30">
-            <FooterPreview />
-          </footer>
-          {/* End Footer */}
+      <div className="theme-elegant">
+        <div className="dark-mode">
+          <div className="page bg-dark-1" id="top">
+            <nav className="main-nav dark dark-mode transparent stick-fixed wow-menubar">
+              <Header5 links={elegantMultipageDark} />
+            </nav>
+            <main id="main">
+              <ParallaxContainer
+                className="home-section bg-dark-alpha-30 parallax-5 light-content z-index-1 scrollSpysection"
+                style={{
+                  backgroundImage:
+                    "url(/assets/images/demo-elegant/section-bg-1.jpg)",
+                }}
+                id="home"
+              >
+                <Hero1 />
+              </ParallaxContainer>
+
+              <Home5 dark />
+            </main>
+            <footer className="bg-dark-2 light-content footer z-index-1 position-relative">
+              <Footer5 />
+            </footer>
+          </div>{" "}
         </div>
       </div>
     </>

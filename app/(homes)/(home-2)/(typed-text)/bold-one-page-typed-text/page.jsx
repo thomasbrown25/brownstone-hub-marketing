@@ -8,9 +8,9 @@ import { boldOnepage } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Home 2 Typed Text Onepage || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 2 Typed Text Onepage || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home2TypedTextOnepage() {
   return (

@@ -12,9 +12,9 @@ import { menuItemsDark } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Main Blog Columns Page 2 Col Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Blog Columns Page 2 Col Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainBlogColumnsPage2ColDark() {
   return (

@@ -15,9 +15,9 @@ import { menuItems } from "@/data/menu";
 import { allBlogs } from "@/data/blogs";
 export const metadata = {
   title:
-    "Main Blog Single Page Full Width || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Blog Single Page Full Width || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function MainBlogSinglePageFullWidth(props) {
   const params = await props.params;

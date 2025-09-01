@@ -10,9 +10,9 @@ import Form6 from "@/components/newsletterForms/Form6";
 
 export const metadata = {
   title:
-    "Slick Blogs || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Slick Blogs || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 const onePage = false;
 const dark = false;

@@ -11,9 +11,9 @@ import Image from "next/image";
 import { allBlogs } from "@/data/blogs";
 export const metadata = {
   title:
-    "Gradient Blogs Single Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Gradient Blogs Single Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function GradientBlogSinglePageDark(props) {
   const params = await props.params;

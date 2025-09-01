@@ -7,9 +7,9 @@ import { strongMultiPages } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Home 10 BG Video MultiPage || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 10 BG Video MultiPage || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home10BGVideoMultiPage() {
   return (

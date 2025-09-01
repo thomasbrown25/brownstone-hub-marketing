@@ -8,9 +8,9 @@ import Widget2 from "@/components/blog/widgets/Widget2";
 import { allBlogs } from "@/data/blogs";
 export const metadata = {
   title:
-    "Slick Blogs Single Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Slick Blogs Single Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 
 export default async function SlickBlogSinglePageDark(props) {

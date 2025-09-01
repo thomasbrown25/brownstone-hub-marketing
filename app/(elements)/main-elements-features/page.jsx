@@ -9,9 +9,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Element Page Features || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Features || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageFeatures() {
   return (
@@ -240,7 +240,7 @@ export default function ElementPageFeatures() {
                           Benefits
                         </h2>
                         <h3 className="section-title mb-30">
-                          Why choose Resonance?
+                          Why choose Brownstone Hub?
                         </h3>
                         <p className="section-descr mb-50 mb-sm-30">
                           A static website stores a unique file for every page
@@ -640,7 +640,7 @@ export default function ElementPageFeatures() {
                         Primary Benefits
                       </h2>
                       <h3 className="section-title-small mb-40">
-                        Why choose Resonance?
+                        Why choose Brownstone Hub?
                       </h3>
                       <div className="section-line" />
                     </div>

@@ -110,7 +110,7 @@ export const testimonials4 = [
     id: 3,
     delay: "0.3s",
     stars: 4.5,
-    text: "“I have super enjoyed working with Resonance.”",
+    text: "“I have super enjoyed working with Brownstone Hub.”",
     caption: "Rated 4.5 on Trustpilot",
   },
 ];

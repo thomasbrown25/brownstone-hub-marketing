@@ -9,9 +9,9 @@ import PortfolioMassonry3 from "@/components/portfolio/PortfolioMassonry3";
 import { menuItemsDark } from "@/data/menu";
 export const metadata = {
   title:
-    "Main Portfolio Page Masonry 3 Col Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Portfolio Page Masonry 3 Col Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainPortfolioPageMasonry3ColDark() {
   return (

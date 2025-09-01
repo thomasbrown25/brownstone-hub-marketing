@@ -13,7 +13,7 @@ export default function Testimonials() {
           </h2>
           <div className="section-line-gradient mx-auto mb-20" />
           <h3 className="section-title mb-80 mb-sm-60">
-            Resonance template is trusted by
+            Brownstone Hub template is trusted by
             <span className="mark-decoration-4">10,000</span>+ customers.
           </h3>
         </div>

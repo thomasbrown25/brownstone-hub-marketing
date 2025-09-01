@@ -9,9 +9,9 @@ import { menuItemsDark } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Element Page Cookie Banner Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Cookie Banner Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageCookieBannerDark() {
   return (

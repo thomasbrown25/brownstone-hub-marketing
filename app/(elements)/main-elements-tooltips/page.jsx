@@ -9,9 +9,9 @@ import Tooltips from "@/components/elements/Tooltips";
 
 export const metadata = {
   title:
-    "Element Page Tooltips || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Tooltips || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageTooltips() {
   return (

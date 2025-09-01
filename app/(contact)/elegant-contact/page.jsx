@@ -18,9 +18,9 @@ import Map from "@/components/common/Map";
 
 export const metadata = {
   title:
-    "Elegant Contact || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Elegant Contact || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElegantContactPage() {
   return (

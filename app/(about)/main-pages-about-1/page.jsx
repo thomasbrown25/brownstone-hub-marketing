@@ -23,9 +23,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Main About 1 || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main About 1 || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainAboutPage1() {
   return (
@@ -61,7 +61,7 @@ export default function MainAboutPage1() {
                             className="wow charsAnimIn"
                             data-splitting="chars"
                           >
-                            <AnimatedText text="Welcome to Resonance Creative Studio" />
+                            <AnimatedText text="Welcome to Brownstone Hub Creative Studio" />
                           </span>
                         </h1>
                         <div className="row">

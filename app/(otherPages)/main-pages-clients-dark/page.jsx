@@ -14,9 +14,9 @@ import Link from "next/link";
 const dark = true;
 export const metadata = {
   title:
-    "Main About 1 Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main About 1 Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainAboutPage1Dark() {
   return (
@@ -53,7 +53,7 @@ export default function MainAboutPage1Dark() {
                               className="wow charsAnimIn"
                               data-splitting="chars"
                             >
-                              <AnimatedText text="Welcome to Resonance Creative Studio" />
+                              <AnimatedText text="Welcome to Brownstone Hub Creative Studio" />
                             </span>
                           </h1>
                           <div className="row">
@@ -250,7 +250,7 @@ export default function MainAboutPage1Dark() {
                     <div className="row mb-50 mb-sm-50">
                       <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3 text-center">
                         <h2 className="section-title-small mb-20">
-                          Why choose Resonance?
+                          Why choose Brownstone Hub?
                         </h2>
                         <p className="text-gray mb-0">
                           Lorem ipsum dolor sit amet, consectetur adipiscing

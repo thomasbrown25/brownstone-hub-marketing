@@ -18,9 +18,9 @@ import { menuItemsDark } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Main About 3 Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main About 3 Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainAboutPage3Dark() {
   return (
@@ -142,7 +142,7 @@ export default function MainAboutPage3Dark() {
                     <div className="col-sm-7 col-xl-6 offset-xl-1 mt-n10">
                       <div className="wow linesAnimIn" data-splitting="lines">
                         <p className="lead mt-0 mb-40">
-                          Resonance is an innovative and dynamic full-service
+                          Brownstone Hub is an innovative and dynamic full-service
                           creative studio that is passionate about crafting
                           exceptional digital experiences and products. We
                           specialize in a wide range of creative disciplines,

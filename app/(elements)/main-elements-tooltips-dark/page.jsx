@@ -9,9 +9,9 @@ import Tooltips from "@/components/elements/Tooltips";
 import { menuItemsDark } from "@/data/menu";
 export const metadata = {
   title:
-    "Element Page Tooltips Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Element Page Tooltips Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElementPageTooltipsDark() {
   return (

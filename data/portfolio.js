@@ -242,7 +242,7 @@ export const portfolios4 = [
     imageSrc: "/assets/images/demo-corporate/portfolio/project-1.jpg",
     title: "How Marketing Wire Support Increased Data Accuracy by 70%",
     number: "70%",
-    description: "growth with Resonance",
+    description: "growth with Brownstone Hub",
   },
   {
     id: 26,
@@ -250,14 +250,14 @@ export const portfolios4 = [
     title:
       "How Surface Mobility Increased Sales 3X During the Latest Six Months",
     number: "3x",
-    description: "sales increased with Resonance",
+    description: "sales increased with Brownstone Hub",
   },
   {
     id: 27,
     imageSrc: "/assets/images/demo-corporate/portfolio/project-3.jpg",
     title: "How Gen Machine Uses Automations to Grow Their Subscriber Base",
     number: "Zero",
-    description: "negative reviews with Resonance",
+    description: "negative reviews with Brownstone Hub",
   },
 ];
 
@@ -579,7 +579,7 @@ export const portfolios11 = [
     title: "How Marketing Wire Support Increased Data Accuracy by 70%",
     imageUrl: "/assets/images/demo-corporate/portfolio/project-1.jpg",
     number: "70%",
-    description: "growth with Resonance",
+    description: "growth with Brownstone Hub",
   },
   {
     id: 66,
@@ -587,14 +587,14 @@ export const portfolios11 = [
       "How Surface Mobility Increased Sales 3X During the Latest Six Months",
     imageUrl: "/assets/images/demo-corporate/portfolio/project-2.jpg",
     number: "3x",
-    description: "sales increased with Resonance",
+    description: "sales increased with Brownstone Hub",
   },
   {
     id: 67,
     title: "How Gen Machine Uses Automations to Grow Their Subscriber Base",
     imageUrl: "/assets/images/demo-corporate/portfolio/project-3.jpg",
     number: "Zero",
-    description: "negative reviews with Resonance",
+    description: "negative reviews with Brownstone Hub",
   },
   {
     id: 68,
@@ -602,21 +602,21 @@ export const portfolios11 = [
       "How Surface Mobility Increased Sales 3X During the Latest Six Months",
     imageUrl: "/assets/images/demo-corporate/portfolio/project-4.jpg",
     number: "2x",
-    description: "sales increased with Resonance",
+    description: "sales increased with Brownstone Hub",
   },
   {
     id: 69,
     title: "How Gen Machine Uses Automations to Grow Their Subscriber Base",
     imageUrl: "/assets/images/demo-corporate/portfolio/project-5.jpg",
     number: "Zero",
-    description: "negative reviews with Resonance",
+    description: "negative reviews with Brownstone Hub",
   },
   {
     id: 70,
     title: "How Marketing Wire Support Increased Data Accuracy by 70%",
     imageUrl: "/assets/images/demo-corporate/portfolio/project-6.jpg",
     number: "80%",
-    description: "growth with Resonance",
+    description: "growth with Brownstone Hub",
   },
 ];
 

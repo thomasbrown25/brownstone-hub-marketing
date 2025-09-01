@@ -17,7 +17,7 @@ export default function Hero1() {
             <div className="col-lg-6 d-flex align-items-center mb-md-60 mb-sm-40">
               <div className="w-100 text-center text-lg-start">
                 <h1 className="hs-title-1 mb-40 mb-sm-20 wow fadeInUp">
-                  The Resonance Website Template
+                  The Brownstone Hub Website Template
                 </h1>
                 <div className="row">
                   <div className="col-lg-10">
@@ -25,7 +25,7 @@ export default function Hero1() {
                       className="section-descr mb-50 mb-sm-40 wow fadeInUp"
                       data-wow-delay="0.15s"
                     >
-                      Resonance is a full-service studio creating beautiful
+                      Brownstone Hub is a full-service studio creating beautiful
                       digital experiences. We are an awards-winning team
                       specializing in design and engineering.
                     </p>

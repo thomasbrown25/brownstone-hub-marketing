@@ -8,9 +8,9 @@ import { boldMultipageDark } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Home 2 Typed Text MultiPage Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 2 Typed Text MultiPage Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home2TypedTextMultiPageDark() {
   return (

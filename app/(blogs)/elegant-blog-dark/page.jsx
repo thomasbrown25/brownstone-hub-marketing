@@ -14,9 +14,9 @@ import { blogs15 } from "@/data/blogs";
 
 export const metadata = {
   title:
-    "Elegant Blog Dark || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Elegant Blog Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function ElegantBlogPageDark() {
   return (

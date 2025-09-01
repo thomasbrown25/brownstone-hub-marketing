@@ -10,9 +10,9 @@ import ParallaxContainer from "@/components/common/ParallaxContainer";
 import { allPortfolios } from "@/data/portfolio";
 export const metadata = {
   title:
-    "Strong Portfolio Single || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Strong Portfolio Single || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default async function StrongPortfolioSinglePage(props) {
   const params = await props.params;

@@ -14,9 +14,9 @@ import { features5 } from "@/data/features";
 
 export const metadata = {
   title:
-    "Corporate About || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Corporate About || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function CorporateAboutPage() {
   return (
@@ -167,7 +167,7 @@ export default function CorporateAboutPage() {
                         Primary Benefits
                       </h2>
                       <h3 className="section-title-small mb-40">
-                        Why choose Resonance?
+                        Why choose Brownstone Hub?
                       </h3>
                       <div className="section-line" />
                     </div>

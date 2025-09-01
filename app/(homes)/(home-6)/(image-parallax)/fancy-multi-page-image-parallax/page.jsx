@@ -9,9 +9,9 @@ import { fancyMultipage } from "@/data/menu";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Home 6 Image Parallax MultiPage || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Home 6 Image Parallax MultiPage || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function Home6ImageParallaxMultiPage() {
   return (

@@ -13,9 +13,9 @@ import { menuItems } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Main Blog Columns Page 3 Col || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Main Blog Columns Page 3 Col || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
 };
 export default function MainBlogColumnsPage3Col() {
   return (
