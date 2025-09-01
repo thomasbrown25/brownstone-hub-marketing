@@ -2,7 +2,7 @@ import React from "react";
 import About from "./About";
 import Marquee from "./Marquee";
 import Image from "next/image";
-import Team from "./Products";
+import Products from "./Products";
 import Service from "./Service";
 import Portfolio from "./Portfolio";
 import Blog from "./Blog";
@@ -214,17 +214,15 @@ export default function Home5({ onePage = false, dark = false }) {
           </div>
         </div>
       </section>
-      <section
+      {/* <section
         className={`page-section pb-0  scrollSpysection  ${
           dark ? "bg-dark-1 light-content" : ""
         } `}
         id="team"
       >
-        <Team />
-      </section>
-      <div className="page-section overflow-hidden">
-        {dark ? <MarqueeDark /> : <Marquee />}
-      </div>
+        <Products />
+      </section> */}
+    
       <section
         className={`page-section pt-0  scrollSpysection  ${
           dark ? "bg-dark-1 light-content" : ""

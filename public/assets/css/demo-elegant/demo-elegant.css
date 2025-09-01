@@ -164,6 +164,92 @@
   padding-top: 12px;
   padding-bottom: 12px;
 }
+/* Container for dropdown */
+/* 1) Tighter spacing between nav items */
+.scrollspyLinks {
+  gap: 18px; /* control spacing here */
+}
+/* Nuke theme margins that create big gaps */
+.scrollspyLinks > li {
+  margin: 0 !important;
+}
+/* Trim left/right padding of each link a bit */
+.scrollspyLinks > li > .nav-link,
+.scrollspyLinks > li > a {
+  padding: 6px 8px !important;
+}
+
+/* 2) Dropdown positioning + proximity */
+.inner-nav .has-dropdown { position: relative; }
+.inner-nav .has-dropdown > .dropdown-menu {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translateX(-50%);
+  display: none;
+  min-width: 220px;
+  padding: 8px 0;
+  margin-top: 4px;              /* was ~12px; pull it closer */
+  background: rgba(20, 20, 20, 0.96);
+  border-radius: 3px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+  z-index: 1000;
+}
+
+/* Hover buffer so tiny gaps don't close the menu */
+.inner-nav .has-dropdown::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  height: 6px;                  /* small invisible bridge */
+}
+
+/* Show on hover, focus, or touch toggle */
+.inner-nav .has-dropdown:hover > .dropdown-menu,
+.inner-nav .has-dropdown:focus-within > .dropdown-menu,
+.inner-nav .has-dropdown.is-open > .dropdown-menu {
+  display: block;
+}
+
+/* Dropdown links */
+.inner-nav .dropdown-menu .dropdown-link {
+  display: block;
+  padding: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0px !important;
+  white-space: nowrap;
+  color: #fff;
+  text-decoration: none;
+  line-height: 1.2;
+}
+.inner-nav .dropdown-menu .dropdown-link:hover,
+.inner-nav .dropdown-menu .dropdown-link:focus {
+  background: rgba(255,255,255,0.08);
+  outline: none;
+}
+
+/* Caret */
+.nav-link .caret {
+  display: inline-block;
+  margin-left: 6px;
+  border: 4px solid transparent;
+  border-top-color: currentColor;
+  vertical-align: middle;
+}
+
+/* Optional little arrow */
+.inner-nav .has-dropdown > .dropdown-menu::before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 8px solid transparent;
+  border-bottom-color: rgba(20, 20, 20, 0.96);
+}
 .theme-elegant .inner-nav ul {
   font-size: 16px;
   line-height: 1.6;
@@ -171,7 +257,7 @@
   letter-spacing: 0;
 }
 .theme-elegant .inner-nav ul li {
-  margin: 0 22px;
+  margin: 0;
 }
 .theme-elegant .main-nav.dark .inner-nav ul > li > a {
   opacity: 0.625;
