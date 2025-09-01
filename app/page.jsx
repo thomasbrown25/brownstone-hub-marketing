@@ -8,9 +8,9 @@ import dynamic from "next/dynamic";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Home 5 Main Demo MultiPage Dark || Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub",
   description:
-    "Brownstone Hub &mdash; One & Multi Page React Nextjs Creative Template",
+    "Brownstone Hub",
 };
 export default function Home5MainDemoMultiPageDark() {
   return (
