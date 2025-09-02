@@ -65,7 +65,13 @@ export default function Header5({ links }) {
 
             <ul className="dropdown-menu" role="menu">
               <li role="none">
-                <a role="menuitem" href="/products/landlord" className="dropdown-link">
+                <a
+                  role="menuitem"
+                  href="https://landlord.brownstonehub.com/"
+                  className="dropdown-link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Landlord App
                 </a>
               </li> 
