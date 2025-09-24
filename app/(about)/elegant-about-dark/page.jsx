@@ -46,7 +46,7 @@ export default function ElegantAboutPageDark() {
                   <div className="row wow fadeIn" data-wow-delay="0.2s">
                     <div className="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
                       <p className="section-title-tiny mb-0 opacity-075">
-                        Crafting immersive digital journeys for brands.
+                        Building powerful software solutions that help businesses scale, integrate, and thrive.
                       </p>
                     </div>
                   </div>
@@ -68,17 +68,11 @@ export default function ElegantAboutPageDark() {
                             <span className="text-gray">.</span>
                           </h2>
                           <div className="text-gray mb-30 mb-sm-20">
-                            <p className="mb-0">
-                              Design elements are the basic units of any design
-                              which form its structure and convey visual
-                              messages. Color is the result of light reflecting
-                              back from an object to our eyes. Curvilinear
-                              shapes are composed of curved lines and smooth
-                              edges. Lines can be vertical, horizontal,
-                              diagonal, or curved. They can be any width or
-                              texture, and can be continuous, implied, or
-                              broken. On top of that, there are different types
-                              of lines aside from the ones previously mentioned.
+                            <p className="mb-4">
+                              Brownstone Hub was founded with a simple mission: make technology work for businesses, not against them. We’ve seen firsthand how companies struggle with disconnected tools, manual processes, and outdated systems. That’s why we set out to build modern applications, dashboards, and integrations that bring clarity and efficiency to everyday operations.
+                            </p>
+                              <p className="mb-0">
+                              From startups to established enterprises, we help teams replace spreadsheets and patchwork systems with streamlined solutions that save time, reduce complexity, and unlock growth.
                             </p>
                           </div>
                         </div>
@@ -91,7 +85,7 @@ export default function ElegantAboutPageDark() {
               <div className="page-section overflow-hidden">
                 {dark ? <MarqueeDark /> : <Marquee />}
               </div>
-              <section
+              {/* <section
                 className="page-section pt-0 pb-0 bg-dark-1 bg-dark-alpha-80 parallax-6 light-content"
                 style={{
                   backgroundImage:
@@ -170,7 +164,7 @@ export default function ElegantAboutPageDark() {
                     </div>
                   </div>
                 </div>
-              </section>
+              </section> */}
               <section
                 className={`page-section pb-0  scrollSpysection  ${
                   dark ? "bg-dark-1 light-content" : ""
@@ -182,88 +176,6 @@ export default function ElegantAboutPageDark() {
               <div className="page-section overflow-hidden">
                 {dark ? <MarqueeDark /> : <Marquee />}
               </div>
-              <>
-                <section className="page-section bg-dark-1 light-content z-index-1">
-                  <div className="container position-relative">
-                    <div className="row position-relative">
-                      <div className="col-md-6 col-lg-5 mb-md-50 mb-sm-30">
-                        <h3 className="section-title mb-30">
-                          What our area of&nbsp;expertise?
-                        </h3>
-                        <p className="text-gray mb-0">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit. Nam pulvinar vitae neque et porttitor. Integer
-                          non dapibus diam, ac eleifend lectus. In maximus
-                          ligula semper metus pellentesque mattis. Maecenas
-                          volutpat, diam enim sagittis quam. Etiam vel enim eget
-                          felis laoreet auctor.
-                        </p>
-                      </div>
-                      <div className="col-md-6 offset-lg-1 pt-10 pt-sm-0">
-                        {/* Bar Item */}
-                        {progressData.map((elm, i) => (
-                          <div key={i} className="progress tpl-progress">
-                            <div
-                              className="progress-bar"
-                              role="progressbar"
-                              style={{ width: `${elm.value}%` }}
-                            >
-                              <div>{elm.label}, %</div>
-                              <span>{elm.value}</span>
-                            </div>
-                          </div>
-                        ))}
-                        {/* End Bar Item */}
-
-                        {/* End Bar Item */}
-                      </div>
-                    </div>
-                  </div>
-                </section>
-                {/* End Skill Section */}
-                {/* Divider */}
-                <hr className="mt-0 mb-0 white" />
-                {/* End Divider */}
-                {/* Call Action Section */}
-                <section className="page-section bg-dark-1 light-content">
-                  <div className="container position-relative">
-                    {/* Decorative Waves */}
-                    <div className="position-relative">
-                      <div
-                        className="decoration-21 d-none d-lg-block"
-                        data-rellax-y=""
-                        data-rellax-speed="0.7"
-                        data-rellax-percentage="0.35"
-                      >
-                        <Image
-                          src="/assets/images/decoration-3.svg"
-                          className="svg-shape"
-                          width={148}
-                          height={148}
-                          alt=""
-                        />
-                      </div>
-                    </div>
-                    {/* End Decorative Waves */}
-                    <div className="row text-center wow fadeInUp">
-                      <div className="col-md-10 offset-md-1 col-lg-6 offset-lg-3">
-                        <p className="section-descr mb-50 mb-sm-30">
-                          The power of design help us to solve complex problems
-                          and cultivate business solutions.
-                        </p>
-                        <div className="local-scroll">
-                          <Link
-                            href={`/elegant-contact`}
-                            className="btn btn-mod btn-large btn-circle btn-hover-anim"
-                          >
-                            <span>Contact us</span>
-                          </Link>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </section>
-              </>
             </main>
             <footer className="bg-dark-2 light-content footer z-index-1 position-relative">
               <Footer5 />
